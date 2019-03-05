@@ -16,6 +16,7 @@
 		D20EC175222E0BDB009BD519 /* publicDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D20EC174222E0BDB009BD519 /* publicDemoTests.m */; };
 		D20EC180222E0BDB009BD519 /* publicDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D20EC17F222E0BDB009BD519 /* publicDemoUITests.m */; };
 		D20EC194222E17A3009BD519 /* UIImage+PDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = D20EC192222E17A3009BD519 /* UIImage+PDExtension.m */; };
+		D20EC196222E1E04009BD519 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D20EC169222E0BDB009BD519 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -249,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D20EC196222E1E04009BD519 /* Info.plist in Resources */,
 				D20EC168222E0BDB009BD519 /* LaunchScreen.storyboard in Resources */,
 				D20EC165222E0BDB009BD519 /* Assets.xcassets in Resources */,
 				D20EC163222E0BDB009BD519 /* Main.storyboard in Resources */,
