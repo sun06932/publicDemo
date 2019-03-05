@@ -1,6 +1,6 @@
 //
-//  publicDemoUITests.m
-//  publicDemoUITests
+//  textUITests.m
+//  textUITests
 //
 //  Created by Sun on 2019/3/5.
 //  Copyright © 2019 孙立昂. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface publicDemoUITests : XCTestCase
+@interface textUITests : XCTestCase
 
 @end
 
-@implementation publicDemoUITests
+@implementation textUITests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.

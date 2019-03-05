@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  publicDemo
+//  text
 //
 //  Created by Sun on 2019/3/5.
 //  Copyright © 2019 孙立昂. All rights reserved.
@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    self.view.backgroundColor = UIColor.yellowColor;
 }
 
 
